@@ -17,3 +17,4 @@
 | [minimal_molview](https://anaconda.org/conda-forge/minimal_molview) | [![conda](https://anaconda.org/conda-forge/minimal_molview/badges/downloads.svg)](https://anaconda.org/conda-forge/minimal_molview) |
 | [choppa](https://anaconda.org/conda-forge/choppa) | [![conda](https://anaconda.org/conda-forge/choppa/badges/downloads.svg)](https://anaconda.org/conda-forge/choppa) |
 | [zarrtraj](https://anaconda.org/conda-forge/zarrtraj) | [![conda](https://anaconda.org/conda-forge/zarrtraj/badges/downloads.svg)](https://anaconda.org/conda-forge/zarrtraj) |
+| [openmm-hip](https://anaconda.org/conda-forge/openmm-hip) | [![conda](https://anaconda.org/conda-forge/openmm-hip/badges/downloads.svg)](https://anaconda.org/conda-forge/openmm-hip) |
